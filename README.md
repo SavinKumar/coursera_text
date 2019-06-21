@@ -16,7 +16,7 @@ This repository contains my solution to the Module - 2 Coding Assignment for HTM
 
 
 
-My solution page's link: [Module 2 Solution](http://faheemzunjani.github.io/module-2-solution/module2-solution) 
+My solution page's link: [Module 2 Solution]
 
 
 
