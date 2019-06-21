@@ -28,7 +28,7 @@ My solution page's link: [Module 2 Solution]
 
 
 
-Quoting the requirements from the Assignment doc ( [Assignment Link](goo.gl/4Blt4G) ):<br>
+Quoting the requirements from the Assignment doc ( [Assignment Link](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md ):<br>
 
 
 
