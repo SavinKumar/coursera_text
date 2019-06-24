@@ -18,7 +18,7 @@ This repository contains my solution to the Module - 2 Coding Assignment for HTM
 
 My solution page's link: [Module 2 Solution] (https://SavinKumar.github.io/coursera_text/module-2-solution/index.html) <br>
 
-My solution page's link: [Module 3 Solution] (https://SavinKumar.github.io/coursera_text/module-2-solution/index.html) <br>
+My solution page's link: [Module 3 Solution] (https://SavinKumar.github.io/coursera_text/module-3-solution/index.html) <br>
 
 <hr>
 
