@@ -22,6 +22,8 @@ My solution page's link: [Module 3 Solution] (https://SavinKumar.github.io/cours
 
 My solution page's link: [Module 4 Solution] (https://SavinKumar.github.io/coursera_text/module-4-solution/index.html) <br>
 
+My solution page's link: [Module 5 Solution] (https://SavinKumar.github.io/coursera_text/module-5-solution/index.html) <br>
+
 <hr>
 
 
@@ -35,6 +37,8 @@ Quoting the requirements from the Assignment doc ( [Assignment 2 Link]) (https:/
 Quoting the requirements from the Assignment doc ( [Assignment 3 Link]) (https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md ):<br>
 
 Quoting the requirements from the Assignment doc ( [Assignment 4 Link]) (https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md ):<br>
+
+Quoting the requirements from the Assignment doc ( [Assignment 5 Link]) (https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md ):<br>
 
 
 
